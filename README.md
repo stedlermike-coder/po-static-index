@@ -1,1 +1,1 @@
-# dtv-po-static-index
+# po-static-index
